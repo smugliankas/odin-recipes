@@ -1,0 +1,24 @@
+.baslik { color: blue; }
+h1 { color: red; }
+#site-baslik { color: green; }
+
+p{
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.description{
+    color: green;
+}
+ul li a {
+    color: gray;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+body {
+    color: purple;
+    font-size: 18px;
+}
