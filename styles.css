@@ -38,6 +38,9 @@ span{
     display: flex;
     background-color: lightgray;
     height: 400px;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
 }
 .item{
     background-color: coral;
