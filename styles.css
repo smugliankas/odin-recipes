@@ -28,3 +28,9 @@ h2 {
     border: 5px solid black;
     margin: 40px;
 }
+p { background-color: lightblue; }
+strong { background-color: yellow; }
+
+span{
+    background-color: yellow;
+}
